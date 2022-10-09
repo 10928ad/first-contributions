@@ -3144,3 +3144,5 @@
 - [cris yi](https://github.com/Crisyix)
 - [Vani Singh](https://github.com/vanisingh-24)
 <!-- prettier-ignore-end -->
+-[Aditri Shitole]
+(https://github.com/<10928ad>)
